@@ -1,1 +1,1 @@
-# MarketLens
+# MarketLens : Retail Customer Segmentation & Sales Analytics
