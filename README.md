@@ -24,7 +24,7 @@ The objective of this project is to:
 
 ## Project Workflow
 
-![Project Workflow](Workflow.jpg)
+![Project Workflow](WorkFlow.jpg)
 
 ---
 
@@ -160,7 +160,7 @@ Analyzed the impact of discounts on:
 
 ### Customer Behavior Dashboard
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](DashBoard.jpg)
 
 ---
 
@@ -185,8 +185,8 @@ MarketLens/
 │   └── Customer Shopping Behavior Analysis.pdf
 │
 ├── images/
-│   ├── Workflow.jpg
-│   └── Dashboard.jpg
+│   ├── WorkFlow.jpg
+│   └── DashBoard.jpg
 │
 └── README.md
 ```
