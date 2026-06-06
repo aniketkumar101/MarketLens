@@ -24,7 +24,7 @@ The objective of this project is to:
 
 ## Project Workflow
 
-![Project Workflow](Dashboard.jpg)
+![Project Workflow](Workflow.jpg)
 
 ---
 
@@ -185,7 +185,8 @@ MarketLens/
 │   └── Customer Shopping Behavior Analysis.pdf
 │
 ├── images/
-│   └── Dashboard.png
+│   ├── Workflow.jpg
+│   └── Dashboard.jpg
 │
 └── README.md
 ```
