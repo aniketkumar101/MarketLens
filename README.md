@@ -228,4 +228,4 @@ GitHub:
 https://github.com/aniketkumar101
 
 LinkedIn:
-(Add your LinkedIn URL here)
+https://www.linkedin.com/in/aniket-kumar-ak123/
